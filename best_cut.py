@@ -4,6 +4,8 @@ Created on Tue Jul  4 11:40:46 2017
 
 @author: Hank Kuang
 @title: 最优分箱&最优降基
+hello
+write by bruce
 hello add in new code
 """
 

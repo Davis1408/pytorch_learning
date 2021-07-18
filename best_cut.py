@@ -8,13 +8,12 @@ hello
 write by bruce
 hello add in new code
 davis new code
+dev in correct
 """
 
 import pandas as pd
 import numpy as np
 from sklearn.utils.multiclass import type_of_target
-
-
 
 def _check_target_binary(y):
     """
@@ -30,7 +29,6 @@ def _check_target_binary(y):
     if y_type not in ['binary']:
         raise ValueError('目标变量必须是二元的！')
 
-
 def _isNullZero(x):
     """
     check x is null or equal zero
@@ -44,7 +42,6 @@ def _isNullZero(x):
     cond1 = np.isnan(x)
     cond2 = x==0
     return cond1 or cond2
-
 
 def _Gvalue(binDS, method):
     """

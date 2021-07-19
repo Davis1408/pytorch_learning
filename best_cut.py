@@ -8,7 +8,7 @@ hello
 write by bruce
 hello add in new code
 davis new code
-dev in correct
+dev in correct, jixukaifa
 hot_fix in code new
 """
 

@@ -9,7 +9,7 @@ write by bruce
 hello add in new code
 davis new code
 dev in correct, jixukaifa dev cut new code
-hot_fix in code new add the new function
+hot_fix in code new add the new function, add in 07-200304
 """
 
 import pandas as pd

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-'offline code in this part'
+'online code in this part'
 import pandas as pd
 import numpy as np
 from sklearn import  preprocessing

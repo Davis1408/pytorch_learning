@@ -12,8 +12,6 @@ pd.set_option('display.max_rows', 2000,'display.max_columns',200)
 # os.chdir("/root/user/tianchi")
 # map 是作用行或者列的函数，applymap()是操作每一个元素的函数，而map()函数是作用在series的每一个元素
 
-
-
 def haversine(lon1, lat1, lon2, lat2):
     from math import radians, cos, sin, asin, sqrt
     lon1= map(radians, np.array(lon1))
